@@ -11,3 +11,6 @@ This is a 6 hour introductory course on Linux. The video seems to cover a wide r
 
 *[Introduction to Cyber Security](https://www.youtube.com/watch?v=z5nc9MDbvkw){:target="_blank"} ---
 This is an introductory course on Cyber Security.
+
+*[File Systems in Operating Systems](https://www.geeksforgeeks.org/file-systems-in-operating-system/){:target="_blank"} ---
+This is an article that provides an overview on File Systems.
