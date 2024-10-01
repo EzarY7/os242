@@ -14,3 +14,6 @@ This is an introductory course on Cyber Security.
 
 *[File Systems in Operating Systems](https://www.geeksforgeeks.org/file-systems-in-operating-system/){:target="_blank"} ---
 This is an article that provides an overview on File Systems.
+
+*[Paging in Operating Systems](https://www.youtube.com/watch?v=pJ6qrCB8pDw){:target="_blank"} ---
+This is a video that discusses paging which is a memory management scheme.
