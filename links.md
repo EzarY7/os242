@@ -17,3 +17,6 @@ This is an article that provides an overview on File Systems.
 
 *[Paging in Operating Systems](https://www.youtube.com/watch?v=pJ6qrCB8pDw){:target="_blank"} ---
 This is a video that discusses paging which is a memory management scheme.
+
+*[C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0){:target="_blank"} ---
+This is a 4 hour long C tutorial for beginners.
