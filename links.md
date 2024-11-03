@@ -20,3 +20,10 @@ This is a video that discusses paging which is a memory management scheme.
 
 *[C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0){:target="_blank"} ---
 This is a 4 hour long C tutorial for beginners.
+
+*[Concurrency, Threading and Parallelism Explained](https://www.youtube.com/watch?v=olYdb0DdGtM){:target="_blank"} ---
+This is an introduction to Concurrency, threading, and parallelism.
+
+*[Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2){:target="_blank"} ---
+This is a youtube playlist that covers the topics on Process Synchronization.
+
