@@ -21,3 +21,4 @@ ZCZC W06 60 L06 References/Books/Documents/Browsing/GSGS relate
 ZCZC W07 20 L05 Quiz Related
 ZCZC W07 240 L06 References/Books/Documents/Browsing/GSGS relate
 ZCZC W07 60 L17 Assignment #07
+ZCZC W08 20 L05 Quiz Related

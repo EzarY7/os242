@@ -27,3 +27,5 @@ This is an introduction to Concurrency, threading, and parallelism.
 *[Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2){:target="_blank"} ---
 This is a youtube playlist that covers the topics on Process Synchronization.
 
+*[Linux From Scratch 12.2 Tutorial](https://www.youtube.com/watch?v=A0tnO3OB4AY&list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3&index=12){:target="_blank"} ---
+This is a youtube playlist for a tutorial on LFS 12.2.
